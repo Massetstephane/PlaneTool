@@ -1,6 +1,6 @@
-## Simple Pitot tube (no function just graphic)
+## Simple Pitot tube (Added Module ModuleEnviroSensor)
 
 A module name = ModuleEnviroSensor included in CFG file
 
-sensorType = ACC
+
 
