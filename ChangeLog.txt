@@ -1,0 +1,13 @@
+- To come up -
+  an other pitot tube but in side way fuselage
+  
+ ________________________________________________________________________________________________________________________________________
+ 
+- INFOS VERSIONS ChangeLog -
+
+1.0.1
+  
+  
+1.0.0
+  First release and test function in github
+  premiére version et test dans github
