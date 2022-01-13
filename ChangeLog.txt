@@ -6,7 +6,8 @@
 - INFOS VERSIONS ChangeLog -
 
 1.0.1
-  
+  Update for B9PartSwicht to change module EnviroSensor type, or Part without sensor
+  Compiled last PartTools 1.12, added tiny Flag to show type of sensor
   
 1.0.0
   First release and test function in github
