@@ -21,4 +21,4 @@ ______
 ______
 
 ## LICENCE
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
