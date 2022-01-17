@@ -3,9 +3,9 @@ Add some details to plane in KSP
 
 Pitot tube updated to 1.12.3 (Partools 1.12) with emissive anim heat texture.
 
-| Pitot Nose|
-| ----------------------------------|
-| ![](DATA&PICTURE/PitoTubeNose_icon.png) |
+| Pitot Nose | WIP (next UVmap and Textures) |
+| --------------------------------- | -------------------------- |
+| ![](DATA&PICTURE/PitoTubeNose_icon.png) | ![](DATA&PICTURE/Pitot2.jpg)
 | You can choose the sensor type or no Sensor|
 | Ex:No Sensor ![](GameData/PlaneTool/parts/Pitot/Assets/Blank.png) TEMP ![](GameData/PlaneTool/parts/Pitot/Assets/IndiceTEMP.png) |
 ______
