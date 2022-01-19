@@ -5,7 +5,7 @@ Pitot tube updated to 1.12.3 (Partools 1.12) with emissive anim heat texture.
 
 | Pitot Nose | WIP (next UVmap and Textures) |
 | --------------------------------- | -------------------------- |
-| ![](DATA&PICTURE/PitoTubeNose_icon.png) | ![](DATA&PICTURE/Pitot2.jpg)
+| ![](DATA&PICTURE/PitoTubeNose_icon.png) | ![](DATA&PICTURE/turnaround.gif)
 | You can choose the sensor type or no Sensor|
 | Ex:No Sensor ![](GameData/PlaneTool/parts/Pitot/Assets/Blank.png) TEMP ![](GameData/PlaneTool/parts/Pitot/Assets/IndiceTEMP.png) |
 ______
