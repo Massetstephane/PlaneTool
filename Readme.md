@@ -1,18 +1,22 @@
-# PlaneTool
+# __ PlaneTool __
 ![](DATA&PICTURE/planetool.jpg)
 Add some details to plane in KSP
 
-`almost finish, encounter a small problem (can't remember how to resolve) in KSP when dezooming appear a light blue wireframe on the two part!
-visible in left part panel, quickly regain Baking techniques in blender, and on blender 3.0 rendering Cycles (samples set over 3000) is as fast as EEVE
-It's awesome !!`
+`in KSP when dezooming appear a light green blue wireframe on on both parts! also visible in left part panel `
 ______
-Pitot tube updated to 1.12.3 (Partools 1.12) with emissive anim heat texture.
+Pitot tube updated to 1.12.3 (Partools 1.12) with emissive anim heat texture (pitot nose for moment).
 
-| Pitot Nose | WIP (next UVmap and Textures) |
-| --------------------------------- | -------------------------- |
-| ![](DATA&PICTURE/PitoTubeNose_icon.png) | ![](DATA&PICTURE/turnaround.gif)
-| You can choose the sensor type or no Sensor|
+| Pitot Nose | Pitot Side |
+| ------------------------------------------- | ----------------------------------------------- |
+|____ ![](DATA&PICTURE/PitoTubeNose_icon.png) |____________![](DATA&PICTURE/PitoTubeLat_icon.png)     |
+| You can choose the sensor type or no Sensor | Same function with two option for indicator Left & Right |
 | Ex:No Sensor ![](GameData/PlaneTool/parts/Pitot/Assets/Blank.png) TEMP ![](GameData/PlaneTool/parts/Pitot/Assets/IndiceTEMP.png) |
+______
+> How to change sensor in editor
+  - Place the part, Right click on the part installed and you have two section in panel
+    ![](DATA&PICTURE/pannelsetting.jpg)
+    
+    Top section change the sensor (sensors variants) | bottom choose Left or Right indicator
 ______
 
 > MODS required
