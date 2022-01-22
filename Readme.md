@@ -2,7 +2,7 @@
 ![](DATA&PICTURE/planetool.jpg)
 Add some details to plane in KSP
 
-`in KSP when dezooming appear a light green blue wireframe on on both parts! also visible in left part panel `
+`in KSP when dezooming appear a light green blue wireframe on both parts! also visible in left part panel `
 ______
 Pitot tube updated to 1.12.3 (Partools 1.12) with emissive anim heat texture (pitot nose for moment).
 
@@ -24,10 +24,10 @@ ______
 - B9PartSwitch_v2.19.0 [blowfish](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-1112-b9partswitch-v2180-march-17/)
 
 > Optional 
-- If TweakScale installed a MM Patch add module in Part
+- If TweakScale installed a MM Patch add module in Part *(I recommend hard to fit for all cockpits)*
 ______
 ## INSTALLATION
-- Copy the folder **PlaneTool** into your KSP GameData directory (file : PlaneTool-1.0.0.zip)
+- Copy the folder **PlaneTool** into your KSP GameData directory. 
 ______
 
 ## LICENCE
