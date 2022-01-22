@@ -1,5 +1,6 @@
 - To come up -
-  an other pitot tube but in side way fuselage
+  Second pitot part finished, using B9PartSwitch and TweakScale, tested "TRANSFORM" node and parameter "positionOffset" function to hide left or right flag on pitot
+  depend the side of the plane not automatic.
   
  ________________________________________________________________________________________________________________________________________
  
