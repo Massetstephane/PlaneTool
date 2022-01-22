@@ -1,10 +1,14 @@
 - To come up -
-  Second pitot part finished, using B9PartSwitch and TweakScale, tested "TRANSFORM" node and parameter "positionOffset" function to hide left or right flag on pitot
-  depend the side of the plane not automatic.
+  
   
  ________________________________________________________________________________________________________________________________________
  
 - INFOS VERSIONS ChangeLog -
+1.0.2
+  New part added side pitot, using B9PartSwitch to change the sensor and module : ModulePartVariants to change the side of indicator flag
+  First part re-compiled too, both parts use same textures. Main texture updated to 1024*1024
+  - Little problem visible in VAB or SPH left panel and in KSP (Moving away from the part you can see a bluish mesh on the part)
+    it's visible in part left panel (turnable icon), and i can't remenber why i have this problem
 
 1.0.1
   Update for B9PartSwicht to change module EnviroSensor type, or Part without sensor
