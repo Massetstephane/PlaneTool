@@ -14,6 +14,7 @@ Pitot tube updated to 1.12.3 (Partools 1.12) with emissive anim heat texture (pi
 ______
 > How to change sensor in editor
   - Place the part, Right click on the part installed and you have two section in panel
+  
     ![](DATA&PICTURE/pannelsetting.jpg)
     
     Top section change the sensor (sensors variants) | bottom choose Left or Right indicator
