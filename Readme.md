@@ -8,16 +8,18 @@ Pitot tube updated to 1.12.3 (Partools 1.12) with emissive anim heat texture (pi
 
 | Pitot Nose | Pitot Side |
 | ------------------------------------------- | ----------------------------------------------- |
-|____ ![](DATA&PICTURE/PitoTubeNose_icon.png) |____________![](DATA&PICTURE/PitoTubeLat_icon.png)     |
-| You can choose the sensor type or no Sensor | Same function with two option for indicator Left & Right |
-| Ex:No Sensor ![](GameData/PlaneTool/parts/Pitot/Assets/Blank.png) TEMP ![](GameData/PlaneTool/parts/Pitot/Assets/IndiceTEMP.png) |
+|____ ![](DATA&PICTURE/PitoTubeNose_icon.png) |____![](DATA&PICTURE/PitoTubeLat_icon.png)     |
+| You can choose the sensor type or no Sensor | Same function but two part Left & Right |
+| Sensor ex : TEMP ![](GameData/PlaneTool/parts/Pitot/Assets/IndiceTEMP.png) |
 ______
 > How to change sensor in editor
-  - Place the part, Right click on the part installed and you have two section in panel
+  - Place the part, Right click on the part installed and you have choice Between (no sensor and the four sensor L&R)
   
-    ![](DATA&PICTURE/pannelsetting.jpg)
+    ![](DATA&PICTURE/setting.jpg)
     
-    Top section change the sensor (sensors variants) | bottom choose Left or Right indicator
+    After a week of test i can't make one part for the pitot lateral, if i use two B9PartSwitch module i loose the sensor
+    tested a combination with modulePartVariants (KSP) problem is on the flag texture, using ksp module for the Left or right
+    side, and the flag texture reset to material startup in unity, it's work but i don't like. 
 ______
 
 > MODS required
