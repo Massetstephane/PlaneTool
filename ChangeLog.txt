@@ -4,6 +4,11 @@
  ________________________________________________________________________________________________________________________________________
  
 - INFOS VERSIONS ChangeLog -
+1.0.3
+  Changing the form for part pitotLateral, now there are two parts Left and Right for the small texture showing (ACC, TEMP etc)
+  Compiled texture to DDS format, two parts Left and Right use the B9 module for the moment, added info to dictionary.cfg 
+  file (french, english), there is always this texture bug on part wireframe when dezooming and Vab or SPH panel part.
+  
 1.0.2
   New part added side pitot, using B9PartSwitch to change the sensor and module : ModulePartVariants to change the side of indicator flag
   First part re-compiled too, both parts use same textures. Main texture updated to 1024*1024
