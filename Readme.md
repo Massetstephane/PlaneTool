@@ -1,6 +1,7 @@
 # __ PlaneTool __
 ![](DATA&PICTURE/planetool.jpg)
-Add some details to plane in KSP
+Add some details to plane in KSP  
+# [WIKI](https://github.com/Massetstephane/PlaneTool/wiki)
 
 `in KSP when dezooming appear a light green blue wireframe on both parts! also visible in left part panel `
 ______
